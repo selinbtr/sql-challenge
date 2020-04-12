@@ -38,7 +38,7 @@ Once you have a complete database, do the following:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus (Optional)
+## Bonus
 
 1. Import the SQL database into Pandas. This step may require some research. 
 
